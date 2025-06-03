@@ -277,3 +277,25 @@ Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
 By visiting this page on our website: https://appcollective82.wordpress.com/
+
+***
+
+📱 FaceTap – Privacy Policy
+Last updated: June 3, 2025
+
+We respect your privacy. FaceTap does not collect, store, or share any personal data.
+
+Contact Access
+To use FaceTap, you may optionally add a contact with a photo and FaceTime address.
+This information stays entirely on your device and is not sent anywhere.
+It is only used to display the contact and allow quick access to FaceTime.
+
+No ads
+
+No tracking
+
+No analytics
+
+No data sharing
+
+Everything is local and private.
